@@ -2216,7 +2216,7 @@ HdsbY,P2p://ns2.hellotvvod.com:9906/1269c71356f54b919d69c2f54f635a89.ts
 一本道720P48,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120315_200/index.m3u8
 一本道720P49,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112815_198/index.m3u8
 一本道720P50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112715_197/index.m3u8
-🔞韩国▪电影_169169,#genre#
+🔞韩国▪电影_2022,#genre#
 
 HEYZO720P01,https://videomy.yongaomy.com/20191223/80S2HH9G/index.m3u8
 HEYZO720P02,https://videomy.yongaomy.com/20191223/msg5JABw/index.m3u8
@@ -2269,7 +2269,7 @@ HEYZO720P48,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1950_full/1500kb/hls/
 HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/index.m3u8
 HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
 
-🔞东热▪电影_169169,#genre#
+🔞东热▪电影_2022,#genre#
 
 东热720P01,https://videony.rhsj520.com/20191027/WoTBapoK/1500kb/hls/index.m3u8
 东热720P02,https://videony.rhsj520.com/20191027/71zzDSxi/1500kb/hls/index.m3u8
@@ -2303,7 +2303,7 @@ HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/
 东热720P30,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0438/index.m3u8
 东热720P31,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0437/index.m3u8
 
-🔞加勒▪电影_169169,#genre#
+🔞加勒▪电影_2022,#genre#
 
 加勒比720P01,https://videony.rhsj520.com/20191299/oSRvuYJA/index.m3u8
 加勒比720P02,https://videony.rhsj520.com/20191112/022512-952/1500kb/hls/index.m3u8
